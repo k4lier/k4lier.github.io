@@ -6,13 +6,17 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+- type: linkedin
+  icon: "fa-brands fa-linkedin"
+  url: "https://es.linkedin.com/in/franciscojavierespantale%C3%B3np%C3%A9rez/es"
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: hackthebox
+  icon: "fas fa-cube"
+  url: "https://app.hackthebox.com/users/1828683"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
